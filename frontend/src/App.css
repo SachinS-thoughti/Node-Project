@@ -1,0 +1,37 @@
+body {
+  background: linear-gradient(to bottom right, #f4f4f4 0%, #dce4ea 100%);
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.login-form {
+  background-color: #a2e4f7;
+  padding: 50px;
+}
+
+.form-image {
+  background-color: #e8fdff;
+  display: flex;
+  align-items: center;
+}
+
+.form {
+  border: 2px solid black;
+}
+
+button {
+  float: left !important;
+}
+
+.image img {
+  max-width: 320px;
+}
+
+.school-logo img {
+  max-width: 250px;
+}
